@@ -27,13 +27,10 @@ This was one of my first projects practicing:
 - Adding and styling a background image with `background-size`, `background-position`, and overlay gradients
 - Debugging with browser DevTools (Console & Network tabs)
 
-## Planned Improvements
+## Planned Improvements in future
 
 - [ ] Add About, Services, Trainers, Pricing, and Testimonials sections
 - [ ] Make the layout fully responsive for mobile devices
 - [ ] Connect the signup form to a real backend (or Formspree)
 - [ ] Rebuild in React, then migrate to Next.js + TypeScript as I learn those stacks
 
-## Getting Started
-
-1. Clone this repo
