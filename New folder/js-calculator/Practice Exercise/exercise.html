@@ -6,7 +6,33 @@
 </head>
 <body>
     <h3 id="greeting"></h3>
+    <button id="my-button" onclick="buttonPressed();">0</button>
     <script>
+        let noOfTimesClicked =0;
+        function buttonPressed(){
+            console.log('pressed');
+            let button =document.querySelector('#my-button');
+            noOfTimesClicked++;
+            button.innerText
+        }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
         function doGreeting(personName = 'Dear') {
         let date = new Date();
         let hours=date.getHours();
